@@ -1,0 +1,23 @@
+{
+  "name": "jest-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kilina0/jest-simple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kilina0/jest-simple/issues"
+  },
+  "homepage": "https://github.com/kilina0/jest-simple#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
