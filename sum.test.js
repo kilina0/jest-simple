@@ -10,5 +10,5 @@ test('adds 2 + 2 to equal 4', () => {
 
 
 test('adds 3 + 2 to equal 5', () => {
-  expect(sum(3, 2)).toBe(4);
+  expect(sum(3, 2)).toBe(5);
 });
